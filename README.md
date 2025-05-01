@@ -18,7 +18,7 @@ Remove recoil in any game using RCControl - universal recoil control. 🎮✨
 ---
 
 website: https://kaydev-afk.github.io/rccontrol/
-github: 
+github: https://github.com/Kaydev-afk/rccontrol
 
 ## Why RCControl is Not a Cheat
 
